@@ -5,11 +5,11 @@ Authentication agent: hyprpolkitagent
 
 Terminal: kitty
 
-Wallpaper: hyprpaper
+Wallpaper: hyprpaper (change to swww)
 
 Notification Daemon: dunst
 
-Application launcher: wofi (switch to rofi/hyprlauncher?)
+Application launcher: wofi 
 
 File manager: dolphin
 
@@ -20,5 +20,3 @@ XDG Desktop Portal: xdg-desktop-portal-hyprland
 Status bar / shell: quickshell
 
 Clipboard: wl-copy
-
-Screen brightness: brightnessctl
