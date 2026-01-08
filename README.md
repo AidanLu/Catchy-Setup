@@ -20,3 +20,5 @@ XDG Desktop Portal: xdg-desktop-portal-hyprland
 Status bar / shell: quickshell
 
 Clipboard: wl-copy
+
+Screen brightness: brightnessctl
