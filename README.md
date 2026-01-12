@@ -5,7 +5,7 @@ Authentication agent: hyprpolkitagent
 
 Terminal: kitty
 
-Wallpaper: hyprpaper (change to swww)
+Wallpaper: swww
 
 Notification Daemon: dunst
 
